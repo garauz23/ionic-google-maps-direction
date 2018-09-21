@@ -1,5 +1,7 @@
 {
   "name": "consultec_prueba",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
